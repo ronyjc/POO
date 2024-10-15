@@ -1,0 +1,14 @@
+C:\Users\ronyj\source\repos\POOEjemplo\bin\Debug\net8.0\POOEjemplo.exe
+C:\Users\ronyj\source\repos\POOEjemplo\bin\Debug\net8.0\POOEjemplo.deps.json
+C:\Users\ronyj\source\repos\POOEjemplo\bin\Debug\net8.0\POOEjemplo.runtimeconfig.json
+C:\Users\ronyj\source\repos\POOEjemplo\bin\Debug\net8.0\POOEjemplo.dll
+C:\Users\ronyj\source\repos\POOEjemplo\bin\Debug\net8.0\POOEjemplo.pdb
+C:\Users\ronyj\source\repos\POOEjemplo\obj\Debug\net8.0\POOEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronyj\source\repos\POOEjemplo\obj\Debug\net8.0\POOEjemplo.AssemblyInfoInputs.cache
+C:\Users\ronyj\source\repos\POOEjemplo\obj\Debug\net8.0\POOEjemplo.AssemblyInfo.cs
+C:\Users\ronyj\source\repos\POOEjemplo\obj\Debug\net8.0\POOEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\ronyj\source\repos\POOEjemplo\obj\Debug\net8.0\POOEjemplo.dll
+C:\Users\ronyj\source\repos\POOEjemplo\obj\Debug\net8.0\refint\POOEjemplo.dll
+C:\Users\ronyj\source\repos\POOEjemplo\obj\Debug\net8.0\POOEjemplo.pdb
+C:\Users\ronyj\source\repos\POOEjemplo\obj\Debug\net8.0\POOEjemplo.genruntimeconfig.cache
+C:\Users\ronyj\source\repos\POOEjemplo\obj\Debug\net8.0\ref\POOEjemplo.dll
